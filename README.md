@@ -1,3 +1,18 @@
+# 🖤🛣️ BlackRoad Enhanced Edition
+
+> **This is a BlackRoad OS, Inc. managed fork**
+> Customized for digital sovereignty and zero vendor lock-in
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS%2C%20Inc.-FF1D6C?style=for-the-badge)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-F5A623?style=for-the-badge)](LICENSE)
+[![Managed](https://img.shields.io/badge/Managed%20By-Alexa%20Amundson-2979FF?style=for-the-badge)](https://github.com/blackboxprogramming)
+
+**[📖 BlackRoad Documentation](BLACKROAD.md)** | **[🚀 Deployment Guide](DEPLOYMENT.md)** | **[📜 License](LICENSE)**
+
+---
+
+# Original Project Documentation
+
 <a href="https://www.mozilla.org/en-US/MPL/2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/3fcf3d6b678ea15fde3cf7d6af0e242160366282d62a7c182d83a50bfee3f45e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d504c2d322e302d626c75652e737667" alt="License: MPL-2.0" data-canonical-src="https://img.shields.io/badge/MPL-2.0-blue.svg" style="max-width:100%;"></a>
 ![love-badge]
 
